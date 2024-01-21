@@ -17,9 +17,16 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_obstacle01","order":4,"path":"sprites/spr_obstacle01/spr_obstacle01.yy",},
     {"name":"spr_playerShip","order":3,"path":"sprites/spr_playerShip/spr_playerShip.yy",},
+    {"name":"obj_level01","order":2,"path":"objects/obj_level01/obj_level01.yy",},
+    {"name":"obj_score","order":5,"path":"objects/obj_score/obj_score.yy",},
+    {"name":"obj_system","order":4,"path":"objects/obj_system/obj_system.yy",},
     {"name":"spr_tileset01","order":2,"path":"sprites/spr_tileset01/spr_tileset01.yy",},
     {"name":"spr_btnReset","order":1,"path":"sprites/spr_btnReset/spr_btnReset.yy",},
+    {"name":"obj_obstacle01","order":3,"path":"objects/obj_obstacle01/obj_obstacle01.yy",},
+    {"name":"spr_clearer","order":6,"path":"sprites/spr_clearer/spr_clearer.yy",},
+    {"name":"spr_obstacle02","order":5,"path":"sprites/spr_obstacle02/spr_obstacle02.yy",},
     {"name":"obj_btnReset","order":1,"path":"objects/obj_btnReset/obj_btnReset.yy",},
   ],
 }
