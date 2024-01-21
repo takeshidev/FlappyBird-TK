@@ -1,2 +1,4 @@
 /// @description 
-y = y + gravedad
+if (y < room_height - 40) {
+	y = y + gravedad
+}
